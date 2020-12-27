@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>picture/mainback.jpg</file>
+        <file>picture/dlam.gif</file>
+        <file>picture/Line.jpg</file>
+        <file>picture/music.mp3</file>
+    </qresource>
+</RCC>
