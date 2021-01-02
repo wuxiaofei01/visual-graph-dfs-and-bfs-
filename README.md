@@ -4,21 +4,21 @@
 
 
 请注意 第一行是输入节点的数量 
-第二行为起点字符串
-第三行为终点字符串
+第二行为起点字符串  
+第三行为终点字符串  
 
-例如
-5
-12345
-23451
-表示 1-2 2-3 3-4 4-5 5-1无向图
-
-Please note that the first line is the number of input nodes
-The second line is the starting string
-The third line is the end string
-
-E.g
-5
-12345
-23451
-Representation 1-2 2-3 3-4 4-5 5-1 Undirected graph
+例如  
+5  
+12345  
+23451  
+表示 1-2 2-3 3-4 4-5 5-1无向图  
+  
+Please note that the first line is the number of input nodes  
+The second line is the starting string  
+The third line is the end string  
+  
+E.g  
+5  
+12345  
+23451  
+Representation 1-2 2-3 3-4 4-5 5-1 Undirected graph  
