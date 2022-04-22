@@ -1,7 +1,7 @@
 # 数据结构实验作业 2020年12月27日上传
 # data struct    
 # Data structure experiment, visual dfs and bfs based on QT
-
+# 东北大学数据结构深搜，广搜
 
 请注意 第一行是输入节点的数量 
 第二行为起点字符串  
